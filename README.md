@@ -173,7 +173,7 @@ Live small-cap market screener
 
 `MARKET DATA` · `WEBSOCKETS` · `REALTIME STREAMING`
 
-**[Repository →](https://github.com/your-username/real-time-stock-screener)**
+**[Repository →](https://github.com/SpySparsh/Stock-Screener)**
 
 </td>
 <td width="33%" valign="top">
