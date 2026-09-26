@@ -184,7 +184,7 @@ Chest X-ray disease classification research
 
 `MULTIMODAL AI` · `CNN/MLP` · `GRAD-CAM`
 
-**[Repository →](https://github.com/your-username/multimodal-disease-classification)**
+**[Repository →](https://github.com/SpySparsh/Multimodal-Disease-Classification-on-Clinical-Images-and-Metadata)**
 
 </td>
 </tr>
