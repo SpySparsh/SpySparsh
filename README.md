@@ -8,7 +8,7 @@ Designing APIs, distributed systems, realtime applications, and AI-powered produ
 
 `● AVAILABLE FOR OPPORTUNITIES` &nbsp;·&nbsp; `DELHI / NCR`
 
-[LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; [Portfolio](YOUR_PORTFOLIO_URL) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://linkedin.com/in/sparsh-sharma-064070355) &nbsp;·&nbsp; [Portfolio](https://portfolio-teal-kappa-89.vercel.app/) &nbsp;·&nbsp; [Email](sparshs730@gmail.com)
 
 </div>
 
