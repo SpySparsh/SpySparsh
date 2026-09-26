@@ -1,163 +1,238 @@
 <div align="center">
 
-# Sparsh Sharma
+# SPARSH SHARMA
 
 **Backend Software Engineer · Full-Stack Developer**
+
 Designing APIs, distributed systems, realtime applications, and AI-powered products.
 
-`● AVAILABLE FOR OPPORTUNITIES` &nbsp;·&nbsp; `DELHI / NCR`
+`AVAILABLE FOR OPPORTUNITIES` · `DELHI / NCR`
 
-[LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; [Portfolio](YOUR_PORTFOLIO_URL) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio.dev) · [Email](mailto:sparshs730@gmail.com)
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<br>
 
-### What I build
-
-`01` **Backend** — APIs · Data · Transactions · Background Jobs  
-`02` **Distributed** — Events · Queues · Caching · Concurrency  
-`03` **Realtime** — WebSockets · Pub/Sub · Socket.IO  
-`04` **AI** — LLM Workflows · Structured Generation · AI Products
-
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
-
-### Technology stack
+## ENGINEERING FOCUS
 
 <table>
 <tr>
-<td width="150"><sub><b>Languages</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/typescript" width="16" height="16" alt=""/> TypeScript &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="16" height="16" alt=""/> JavaScript &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python" width="16" height="16" alt=""/> Python &nbsp;&nbsp;
-SQL
+<td width="50%" valign="top">
+
+**`01`  BACKEND**
+<br>
+APIs · Data · Transactions · Background Jobs
+
+</td>
+<td width="50%" valign="top">
+
+**`02`  DISTRIBUTED**
+<br>
+Events · Queues · Caching · Concurrency
+
 </td>
 </tr>
 <tr>
-<td><sub><b>Backend</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/nodedotjs" width="16" height="16" alt=""/> Node.js &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastify" width="16" height="16" alt=""/> Fastify &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/express" width="16" height="16" alt=""/> Express &nbsp;&nbsp;
-REST &nbsp;&nbsp; OpenAPI
+<td width="50%" valign="top">
+
+**`03`  REALTIME**
+<br>
+WebSockets · Pub/Sub · Socket.IO
+
 </td>
-</tr>
-<tr>
-<td><sub><b>Data</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/postgresql" width="16" height="16" alt=""/> PostgreSQL &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/redis" width="16" height="16" alt=""/> Redis &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb" width="16" height="16" alt=""/> MongoDB &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prisma" width="16" height="16" alt=""/> Prisma
-</td>
-</tr>
-<tr>
-<td><sub><b>Distributed / Realtime</b></sub></td>
-<td>
-BullMQ &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachekafka" width="16" height="16" alt=""/> Kafka &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/rabbitmq" width="16" height="16" alt=""/> RabbitMQ &nbsp;&nbsp;
-Pub/Sub &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/socketdotio" width="16" height="16" alt=""/> Socket.IO &nbsp;&nbsp;
-WebSockets
-</td>
-</tr>
-<tr>
-<td><sub><b>Infrastructure</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/docker" width="16" height="16" alt=""/> Docker &nbsp;&nbsp;
-Docker Compose &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws" width="16" height="16" alt=""/> AWS &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux" width="16" height="16" alt=""/> Linux &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nginx" width="16" height="16" alt=""/> Nginx &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions" width="16" height="16" alt=""/> GitHub Actions
-</td>
-</tr>
-<tr>
-<td><sub><b>Testing / Observability</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/jest" width="16" height="16" alt=""/> Jest &nbsp;&nbsp;
-Vitest &nbsp;&nbsp;
-Supertest &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/prometheus" width="16" height="16" alt=""/> Prometheus &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana" width="16" height="16" alt=""/> Grafana
-</td>
-</tr>
-<tr>
-<td><sub><b>Frontend</b></sub></td>
-<td>
-<img src="https://cdn.simpleicons.org/nextdotjs" width="16" height="16" alt=""/> Next.js &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react" width="16" height="16" alt=""/> React
+<td width="50%" valign="top">
+
+**`04`  AI**
+<br>
+LLM Workflows · Structured Generation · AI Products
+
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<br>
 
-## Selected work
+## TECHNOLOGY STACK
 
-`01`
-## Distributed Commerce Platform
+<table>
+<tr><td width="140"><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</td></tr>
+<tr><td><b>Backend</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+<img src="https://img.shields.io/badge/Fastify-161b22?style=flat-square&logo=fastify&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Express-161b22?style=flat-square&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/REST-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAPI-161b22?style=flat-square&logo=openapiinitiative&logoColor=6BA539" />
+</td></tr>
+<tr><td><b>Data</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=FF4438" />
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Prisma-161b22?style=flat-square&logo=prisma&logoColor=ffffff" />
+</td></tr>
+<tr><td><b>Distributed / Realtime</b></td><td>
+<img src="https://img.shields.io/badge/BullMQ-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/RabbitMQ-161b22?style=flat-square&logo=rabbitmq&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Pub%2FSub-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket.IO-161b22?style=flat-square&logo=socketdotio&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/WebSockets-161b22?style=flat-square" />
+</td></tr>
+<tr><td><b>Infrastructure</b></td><td>
+<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Docker_Compose-161b22?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Nginx-161b22?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=2088FF" />
+</td></tr>
+<tr><td><b>Testing / Observability</b></td><td>
+<img src="https://img.shields.io/badge/Jest-161b22?style=flat-square&logo=jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/Vitest-161b22?style=flat-square&logo=vitest&logoColor=6E9F18" />
+<img src="https://img.shields.io/badge/Supertest-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=E6522C" />
+<img src="https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=F46800" />
+</td></tr>
+<tr><td><b>Frontend</b></td><td>
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB" />
+</td></tr>
+</table>
 
-Event-driven ecommerce platform focused on transactional correctness, asynchronous processing, concurrency-safe inventory, payments, and search.
+<br>
 
-**EVENT-DRIVEN · IDEMPOTENCY · CONCURRENCY**
+## SELECTED WORK
 
-`TypeScript` `Fastify` `PostgreSQL` `Redis` `BullMQ` `Docker`
+### `01`&nbsp;&nbsp; DISTRIBUTED COMMERCE
 
-[Repository →](YOUR_COMMERCE_REPO)
+Event-driven ecommerce platform built around transactional correctness — asynchronous processing, concurrency-safe inventory, payments, and search across a typed service boundary.
+
+`EVENT-DRIVEN`&nbsp;&nbsp;`IDEMPOTENCY`&nbsp;&nbsp;`CONCURRENCY`
+
+TypeScript · Fastify · PostgreSQL · Redis · BullMQ · Docker
+
+**[Repository →](https://github.com/your-username/scalable-ecommerce-platform)**
+
+<sub>4-service TypeScript monorepo · typed domain events driving 8+ idempotent BullMQ queues with retry/dead-letter handling · Redis distributed locks + PostgreSQL conditional transactions for oversell-safe inventory · JWT with rotating refresh tokens, RBAC · Stripe Checkout with signed webhooks</sub>
 
 ---
 
-`02`
-### Realtime Golf Platform
+### `02`&nbsp;&nbsp; REALTIME GOLF
 
-Realtime subscription platform combining horizontally scalable communication, asynchronous processing, payment reconciliation, and observability.
+Production-oriented subscription platform combining realtime communication, asynchronous billing, and operational tooling across four independently scalable runtimes.
 
-**REALTIME · PUB/SUB · WEBHOOKS**
+`REALTIME`&nbsp;&nbsp;`PUB/SUB`&nbsp;&nbsp;`WEBHOOKS`
 
-`Next.js` `Redis` `Socket.IO` `BullMQ` `Stripe`
+Next.js · Redis · Socket.IO · BullMQ · Stripe · Razorpay
 
-[Repository →](YOUR_GOLF_REPO)
+**[Repository →](https://github.com/your-username/golf-charity-platform)**
+
+<sub>Standalone Socket.IO runtime with authenticated rooms, Redis Adapter, and Redis Pub/Sub for horizontal scale · BullMQ workers for billing, draws, analytics, and leaderboards · Stripe/Razorpay webhook processing with HMAC verification and idempotent, replay-safe reconciliation · Prometheus + Grafana observability</sub>
 
 ---
 
-`03`
-### CodeNotes
+### `03`&nbsp;&nbsp; CODENOTES
 
-AI-powered programming study platform designed around reliable generation, transactional persistence, and production-oriented observability.
+AI-powered study platform built around reliable structured generation, transactional persistence, and production-oriented observability.
 
-**AI GENERATION · TRANSACTIONS · OBSERVABILITY**
+`AI GENERATION`&nbsp;&nbsp;`TRANSACTIONS`&nbsp;&nbsp;`OBSERVABILITY`
 
-`Next.js` `PostgreSQL` `Gemini` `Vitest` `Prometheus`
+Next.js · PostgreSQL · Gemini 2.5 Flash · Vitest · Prometheus
 
-[Repository →](YOUR_CODENOTES_REPO)
+**[Repository →](https://github.com/your-username/codenotes)**
 
-<sub><b>More work</b> &nbsp;·&nbsp; Stock Screener &nbsp;·&nbsp; AI Project Collaborator &nbsp;·&nbsp; Multimodal Disease Classification</sub>
+<sub>Parallel transcript/title fetching with direct-video Gemini fallback · Schema-enforced JSON generation with `Idempotency-Key` handling, stale-request reclaim, and atomic PostgreSQL persistence · Structured JSON logging, request IDs, Prometheus metrics, health checks, TLS-verified DB connections, GitHub Actions CI</sub>
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<br>
 
-### Research
+## MORE PROJECTS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**`04`  AI PROJECT COLLABORATOR**
+
+Realtime collaboration · WebContainers · Gemini
+
+`REALTIME COLLABORATION` · `AI CODEGEN` · `BROWSER SANDBOX`
+
+**[Repository →](https://github.com/your-username/ai-project-collaborator)**
+
+</td>
+<td width="33%" valign="top">
+
+**`05`  STOCK SCREENER**
+
+Live small-cap market screener
+
+`MARKET DATA` · `WEBSOCKETS` · `REALTIME STREAMING`
+
+**[Repository →](https://github.com/your-username/real-time-stock-screener)**
+
+</td>
+<td width="33%" valign="top">
+
+**`06`  MULTIMODAL AI**
+
+Chest X-ray disease classification research
+
+`MULTIMODAL AI` · `CNN/MLP` · `GRAD-CAM`
+
+**[Repository →](https://github.com/your-username/multimodal-disease-classification)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GITHUB ACTIVITY
+
+<table>
+<tr>
+<td width="50%"><img src="./profile/stats.svg" alt="GitHub stats" width="100%" /></td>
+<td width="50%"><img src="./profile/top-langs.svg" alt="Top languages" width="100%" /></td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&hide_border=true&area=true" alt="Contribution activity" width="100%" />
+
+<sub>`stats.svg` and `top-langs.svg` are static assets generated and committed by this repository's own GitHub Actions workflow — see `SETUP.md` for how it works.</sub>
+
+<br>
+
+## RESEARCH
 
 `IEEE PUBLISHED`
 
 **Multimodal Deep Learning for Chest X-Ray Disease Classification**
-IEEE-published research exploring multimodal CNN/MLP fusion for disease classification and model explainability.
 
-`PyTorch` `CNN/MLP` `Multimodal Learning` `Grad-CAM`
+IEEE-published research on multimodal CNN/MLP fusion for chest disease classification and model explainability.
 
-[Publication →](YOUR_RESEARCH_URL)
+PyTorch · CNN/MLP · Multimodal Learning · Grad-CAM
 
-### Currently exploring
+**[Publication →](https://github.com/your-username/multimodal-disease-classification)** <sub>(replace with the IEEE DOI/Xplore link)</sub>
+
+<br>
+
+## CURRENTLY EXPLORING
 
 Distributed Systems · System Design · Backend Performance · Reliability Engineering
 
-<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
+<br>
+
+---
 
 <div align="center">
 
-**Build something interesting?**
-[LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; [Portfolio](YOUR_PORTFOLIO_URL) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL)
+### BUILD SOMETHING INTERESTING?
+
+[LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio.dev) · [Email](mailto:sparshs730@gmail.com)
 
 </div>

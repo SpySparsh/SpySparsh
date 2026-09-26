@@ -1,0 +1,18 @@
+<svg width="480" height="190" viewBox="0 0 480 190" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="479" height="189" rx="8" fill="#0d1117" stroke="#30363d" />
+  <text x="24" y="30" fill="#58a6ff" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-weight="bold" letter-spacing="1">GITHUB STATS</text>
+  <line x1="24" y1="40" x2="456" y2="40" stroke="#30363d" />
+  
+    <text x="24" y="56" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Commits (last year)</text>
+    <text x="456" y="56" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0</text>
+    <text x="24" y="76" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Pull requests</text>
+    <text x="456" y="76" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0 opened · 0 merged</text>
+    <text x="24" y="96" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Issues opened</text>
+    <text x="456" y="96" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0</text>
+    <text x="24" y="116" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Stars earned</text>
+    <text x="456" y="116" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0</text>
+    <text x="24" y="136" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Public repositories</text>
+    <text x="456" y="136" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0</text>
+    <text x="24" y="156" fill="#8b949e" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace">Followers</text>
+    <text x="456" y="156" fill="#c9d1d9" font-size="13" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" text-anchor="end">0</text>
+</svg>
