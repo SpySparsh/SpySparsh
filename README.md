@@ -1,18 +1,25 @@
 <div align="center">
 
-# Sparsh Sharma
+<h1>Sparsh Sharma</h1>
 
-### Backend Software Engineer · Full-Stack Developer
+<p>
+  <strong>Backend Software Engineer</strong> · Full-Stack Developer
+</p>
 
-Building scalable backend systems, real-time applications, and AI-powered products.
+<p>
+  Designing APIs, distributed systems, realtime applications,
+  and AI-powered products.
+</p>
 
-<br>
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+<p>
+  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_PORTFOLIO">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
 </div>
-
----
 
 
 ## ⚡ What I Build
