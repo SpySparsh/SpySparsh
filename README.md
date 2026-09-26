@@ -3,55 +3,24 @@
 # Sparsh Sharma
 
 **Backend Software Engineer · Full-Stack Developer**
-
 Designing APIs, distributed systems, realtime applications, and AI-powered products.
 
 `● AVAILABLE FOR OPPORTUNITIES` &nbsp;·&nbsp; `DELHI / NCR`
 
-[LinkedIn](https://linkedin.com/in/sparsh-sharma-064070355) &nbsp;·&nbsp; [Portfolio](https://portfolio-teal-kappa-89.vercel.app/) &nbsp;·&nbsp; [Email](sparshs730@gmail.com)
+[LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; [Portfolio](YOUR_PORTFOLIO_URL) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL)
 
 </div>
 
-<br/>
-
 <img src="./assets/divider.svg" width="100%" height="6" alt=""/>
-
-<br/>
 
 ### What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`01` **Backend** — APIs · Data · Transactions · Background Jobs  
+`02` **Distributed** — Events · Queues · Caching · Concurrency  
+`03` **Realtime** — WebSockets · Pub/Sub · Socket.IO  
+`04` **AI** — LLM Workflows · Structured Generation · AI Products
 
-`01` **Backend**
-APIs · Data · Transactions · Background Jobs
-
-</td>
-<td width="50%" valign="top">
-
-`02` **Distributed**
-Events · Queues · Caching · Concurrency
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-`03` **Realtime**
-WebSockets · Pub/Sub · Socket.IO
-
-</td>
-<td width="50%" valign="top">
-
-`04` **AI**
-LLM Workflows · Structured Generation · AI Products
-
-</td>
-</tr>
-</table>
-
-<br/>
+<img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ### Technology stack
 
@@ -124,95 +93,71 @@ Supertest &nbsp;&nbsp;
 </tr>
 </table>
 
-<br/>
-
 <img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 ## Selected work
 
-### `01` — Distributed Commerce Platform
+`01`
+## Distributed Commerce Platform
 
 Event-driven ecommerce platform focused on transactional correctness, asynchronous processing, concurrency-safe inventory, payments, and search.
 
+**EVENT-DRIVEN · IDEMPOTENCY · CONCURRENCY**
+
 `TypeScript` `Fastify` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
-**Engineering focus** — Event-driven architecture · Idempotent background processing · Concurrency-safe inventory
+[Repository →](YOUR_COMMERCE_REPO)
 
-[Repository ↗](YOUR_COMMERCE_REPO)
+---
 
-<br/>
-
-### `02` — Realtime Golf Platform
+`02`
+### Realtime Golf Platform
 
 Realtime subscription platform combining horizontally scalable communication, asynchronous processing, payment reconciliation, and observability.
 
+**REALTIME · PUB/SUB · WEBHOOKS**
+
 `Next.js` `Redis` `Socket.IO` `BullMQ` `Stripe`
 
-**Engineering focus** — Horizontally scalable realtime communication · Redis Pub/Sub & Adapter · Idempotent webhook processing
+[Repository →](YOUR_GOLF_REPO)
 
-[Repository ↗](YOUR_GOLF_REPO)
+---
 
-<br/>
-
-### `03` — CodeNotes
+`03`
+### CodeNotes
 
 AI-powered programming study platform designed around reliable generation, transactional persistence, and production-oriented observability.
 
+**AI GENERATION · TRANSACTIONS · OBSERVABILITY**
+
 `Next.js` `PostgreSQL` `Gemini` `Vitest` `Prometheus`
 
-**Engineering focus** — Idempotent AI generation · Concurrent request handling · Observability & CI
+[Repository →](YOUR_CODENOTES_REPO)
 
-[Repository ↗](YOUR_CODENOTES_REPO)
-
-<br/>
-
-<sub><b>More work</b></sub>
-&nbsp;·&nbsp; Stock Screener
-&nbsp;·&nbsp; AI Project Collaborator
-&nbsp;·&nbsp; Multimodal Disease Classification on Clinical Images and Metadata
-
-<br/>
+<sub><b>More work</b> &nbsp;·&nbsp; Stock Screener &nbsp;·&nbsp; AI Project Collaborator &nbsp;·&nbsp; Multimodal Disease Classification</sub>
 
 <img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
-### GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SpySparsh&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=2F81F7&point=2F81F7&area=true&area_color=2F81F7&title_color=e6edf3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SpySparsh&theme=minimal&hide_border=true&bg_color=ffffff&color=57606a&line=2F81F7&point=2F81F7&area=true&area_color=2F81F7&title_color=1f2328" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpySparsh&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="100%"/>
-</picture>
-
-<br/>
-
 ### Research
 
-`IEEE Published`
+`IEEE PUBLISHED`
 
 **Multimodal Deep Learning for Chest X-Ray Disease Classification**
-
 IEEE-published research exploring multimodal CNN/MLP fusion for disease classification and model explainability.
 
 `PyTorch` `CNN/MLP` `Multimodal Learning` `Grad-CAM`
 
-[Publication ↗](YOUR_RESEARCH_URL)
-
-<br/>
+[Publication →](YOUR_RESEARCH_URL)
 
 ### Currently exploring
 
-Distributed Systems &nbsp;·&nbsp; System Design &nbsp;·&nbsp; Backend Performance &nbsp;·&nbsp; Reliability Engineering
-
-<br/>
+Distributed Systems · System Design · Backend Performance · Reliability Engineering
 
 <img src="./assets/divider.svg" width="100%" height="6" alt=""/>
 
 <div align="center">
-<br/>
 
 **Build something interesting?**
-
 [LinkedIn](YOUR_LINKEDIN_URL) &nbsp;·&nbsp; [Portfolio](YOUR_PORTFOLIO_URL) &nbsp;·&nbsp; [Email](mailto:YOUR_EMAIL)
 
-<br/>
 </div>
