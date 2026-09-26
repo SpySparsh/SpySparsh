@@ -8,7 +8,7 @@ Designing APIs, distributed systems, realtime applications, and AI-powered produ
 
 `AVAILABLE FOR OPPORTUNITIES` · `DELHI / NCR`
 
-[LinkedIn](https://linkedin.com/in/your-linkedin) · [GitHub](https://github.com/your-username) · [Portfolio](https://your-portfolio.dev) · [Email](mailto:sparshs730@gmail.com)
+[LinkedIn](https://linkedin.com/in/sparsh-sharma-064070355) · [GitHub](https://github.com/SpySparsh) · [Portfolio](https://portfolio-teal-kappa-89.vercel.app/) · [Email](sparshs730@gmail.com)
 
 </div>
 
@@ -116,7 +116,7 @@ Event-driven ecommerce platform built around transactional correctness — async
 
 TypeScript · Fastify · PostgreSQL · Redis · BullMQ · Docker
 
-**[Repository →](https://github.com/your-username/scalable-ecommerce-platform)**
+**[Repository →](https://github.com/SpySparsh/distributed-commerce-platform)**
 
 <sub>4-service TypeScript monorepo · typed domain events driving 8+ idempotent BullMQ queues with retry/dead-letter handling · Redis distributed locks + PostgreSQL conditional transactions for oversell-safe inventory · JWT with rotating refresh tokens, RBAC · Stripe Checkout with signed webhooks</sub>
 
@@ -130,7 +130,7 @@ Production-oriented subscription platform combining realtime communication, asyn
 
 Next.js · Redis · Socket.IO · BullMQ · Stripe · Razorpay
 
-**[Repository →](https://github.com/your-username/golf-charity-platform)**
+**[Repository →](https://github.com/SpySparsh/realtime-golf-platform)**
 
 <sub>Standalone Socket.IO runtime with authenticated rooms, Redis Adapter, and Redis Pub/Sub for horizontal scale · BullMQ workers for billing, draws, analytics, and leaderboards · Stripe/Razorpay webhook processing with HMAC verification and idempotent, replay-safe reconciliation · Prometheus + Grafana observability</sub>
 
@@ -144,7 +144,7 @@ AI-powered study platform built around reliable structured generation, transacti
 
 Next.js · PostgreSQL · Gemini 2.5 Flash · Vitest · Prometheus
 
-**[Repository →](https://github.com/your-username/codenotes)**
+**[Repository →](https://github.com/SpySparsh/CodeNotes)**
 
 <sub>Parallel transcript/title fetching with direct-video Gemini fallback · Schema-enforced JSON generation with `Idempotency-Key` handling, stale-request reclaim, and atomic PostgreSQL persistence · Structured JSON logging, request IDs, Prometheus metrics, health checks, TLS-verified DB connections, GitHub Actions CI</sub>
 
@@ -217,7 +217,7 @@ IEEE-published research on multimodal CNN/MLP fusion for chest disease classific
 
 PyTorch · CNN/MLP · Multimodal Learning · Grad-CAM
 
-**[Publication →](https://github.com/your-username/multimodal-disease-classification)** <sub>(replace with the IEEE DOI/Xplore link)</sub>
+**[Publication →](https://ieeexplore.ieee.org/document/11485739)** <sub>(replace with the IEEE DOI/Xplore link)</sub>
 
 <br>
 
