@@ -162,7 +162,7 @@ Realtime collaboration · WebContainers · Gemini
 
 `REALTIME COLLABORATION` · `AI CODEGEN` · `BROWSER SANDBOX`
 
-**[Repository →](https://github.com/your-username/ai-project-collaborator)**
+**[Repository →](https://github.com/SpySparsh/AI-Project-Collabrator)**
 
 </td>
 <td width="33%" valign="top">
